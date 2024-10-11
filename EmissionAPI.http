@@ -1,0 +1,6 @@
+@EmissionAPI_HostAddress = http://localhost:5152
+
+GET {{EmissionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
